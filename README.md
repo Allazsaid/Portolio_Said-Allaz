@@ -19,3 +19,8 @@ Followed by the sub-questions that are intended to help answer the main research
 
 ## Experimental setup
 
+![S](assets/img/Experiment.PNG)
+* Figure 2: The spiked WWTP was aerated in the aerator. BR1 is the BAC reactor. O3R is the ozone reactor. S1 is the feed sample, S2 is the sample after BAC treatment, S3 is the sample after BO3 treatment and S4 is the sample after O3 treatment only.
+
+
+  

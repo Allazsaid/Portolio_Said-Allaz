@@ -115,6 +115,7 @@ Project Overview:
 As the Project Manager at Saudi Electricity Company, I spearheaded the successful execution of a significant infrastructure project involving the laying of 128KV XLP cables. This project aimed at enhancing the electrical grid infrastructure to ensure efficient electricity distribution across the region.
 
 * Responsibilities and Achievements:
+
 1- Team Management:
 Led a dedicated team of 10+ engineer assistants and site workers throughout the project lifecycle.
 Coordinated team efforts to ensure seamless communication and collaboration, fostering a positive and efficient working environment.
@@ -149,4 +150,3 @@ The successful completion of the 128KV XLP cable laying project had a significan
 
 
 ![jh](assets/img/11101.PNG)
-* country details table

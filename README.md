@@ -67,14 +67,25 @@ Modeling the data in PowerBi is done by setting a collection of tables and build
 
 The goal was to understand the interlink between scope 1, 2 and 3 emissions of CO2 and all categories of scope 3, as well as the renewable energy sources, and carbon intensity for each company and each year and to run time intelligence analysis. To do so, the raw data was set to be the fact table in the model. Indeed, the fact table is the table that connect all the Dimension [Dim] tables in the model. 
 
-All the Dim tables are connected to the fact table (with the raw data) by many relationships, meaning multiple records of dataset in the table (e.g., carbon intensity is mapped to multiple records in dataset). The relationship between the fact table (with the raw data) and the Target progress table (the table with the matrices) is set to be Bi-directional relations, meaning that any change in the raw data will impact the matrices and vice versa. As for the carbon intensity table, it was set to have a single relationship with the fact table (raw data), in which any change of the scope 1, 2 and 3 emissions should impact the carbon intensity performance 
+All the Dim tables are connected to the fact table (with the raw data) by many relationships, meaning multiple records of dataset in the table (e.g., carbon intensity is mapped to multiple records in dataset). The relationship between the fact table (with the raw data) and the Target progress table (the table with the matrices) is set to be Bi-directional relations, meaning that any change in the raw data will impact the matrices and vice versa. As for the carbon intensity table, it was set to have a single relationship with the fact table (raw data), in which any change of the scope 1, 2 and 3 emissions should impact the carbon intensity performance.
+
+![al](assets/img/Model.png)
+
 
 ## Data Visualization
 
 The main purpose of this project is to show how each company is performing towards reducing carbon emissions for Scope 1, 2, and 3 for each year as well as building a time intelligence to track the performance year over year of benchmarking between companies. Additionally, it is useful to visualize the interlink between carbon emissions, renewable energy, and electricity consumption and generation for each company. It also is useful to show the type of renewable electricity technology that is used, also to visualize the tracking instrument utilize
 In order to comprehensively build the main dashboard and make sure the data is displayed in the best manner and most helpful way for users, each dashboard is analyzed individually based on the purpose of the data that should be conveyed. For instance, the dashboard YOY trends of emissions is using a time intelligence function, in which visualizing the trend for each company year over year in terms of scope 1, 2, and 3 CO2 emissions.
 
-(((figure)))
+![a](assets/img/scope123.png)
+* Scope 1,2 and 3
+
+![w](assets/img/YOY.png)
+* YOY Trends of emissions
+
+
+![ad](assets/img/Matrices.png)
+* Performance against targets Matrices
 
 
 # Climate Policy Tracker dashoard Development
@@ -87,8 +98,17 @@ Furthermore, the project's focus on global climate policies and the impact on mu
 
 To model this data in PowerBi, one fact table was needed and no relationship in the model was used
 
-(Figure)
+![uy](assets/img/Climate.png)
+
 
 For visualization, I was consistently receiving feedback from my team on the best way to show the data. We finally agreed to visualize it based on a color-coded map where each country that is represented by an OpCo which can colored based on the overall score of all indicators. The color gradient is spread between dark red to yellow and dark green, where the countries are colored based on the poorest performance for red color to average for yellow color and above average performance for green color.
 
+![as](assets/img/Map1.png)
+* Overview Climate policy tracker map
 
+
+![jh](assets/img/Table.png)
+* OpCos country details table
+
+
+______________________________________________________________________________________________________________________________________________________________________

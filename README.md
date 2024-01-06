@@ -107,10 +107,46 @@ For visualization, I was consistently receiving feedback from my team on the bes
 * Overview Climate policy tracker map
 
 
-![jh](assets/img/11101.PNG)
-* country details table
-
-
 ______________________________________________________________________________________________________________________________________________________________________
 
+# Project: Al-Kharj 128KV XLP Cable Laying
 
+Project Overview:
+As the Project Manager at Saudi Electricity Company, I spearheaded the successful execution of a significant infrastructure project involving the laying of 128KV XLP cables. This project aimed at enhancing the electrical grid infrastructure to ensure efficient electricity distribution across the region.
+
+* Responsibilities and Achievements:
+1- Team Management:
+Led a dedicated team of 10+ engineer assistants and site workers throughout the project lifecycle.
+Coordinated team efforts to ensure seamless communication and collaboration, fostering a positive and efficient working environment.
+
+2- Project Planning and Execution:
+Developed comprehensive project plans, outlining key milestones and deliverables.
+Ensured the successful implementation of the project, adhering to strict timelines and quality standards.
+
+3- Safety Compliance:
+Prioritized safety as a top concern, meticulously planning and implementing safe layout and installation practices.
+Ensured compliance with local guidelines, industry standards, and company safety policies.
+
+4- Cross-functional Collaboration:
+Collaborated effectively with cross-functional teams, including engineering, logistics, and safety departments.
+Facilitated data-driven decision-making processes, enhancing the overall efficiency and effectiveness of the project.
+
+5- Initiative Development:
+Proactively identified areas for improvement and developed initiatives to address challenges and optimize project outcomes.
+Introduced innovative solutions to enhance project performance and efficiency.
+
+* Project Impact:
+The successful completion of the 128KV XLP cable laying project had a significant impact on the electrical infrastructure, resulting in:
+
+* Improved Distribution: Enhanced the efficiency of electricity distribution across the region, contributing to a more reliable and stable power supply.
+
+* Compliance and Safety: Ensured compliance with local guidelines and safety policies, creating a secure working environment for the team and minimizing potential risks.
+
+* Team Development: Nurtured a high-performing team, fostering collaboration, skill development, and a culture of excellence.
+
+![bn](assets/img/Hafria.jpg)
+128KV XLP cable laying
+
+
+![jh](assets/img/11101.PNG)
+* country details table

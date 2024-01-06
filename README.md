@@ -36,7 +36,7 @@ Followed by the sub-questions that are intended to help answer the main research
 In this study, the impact of precipitation on the removal of OM and MPs in BO3 reactor was studied. The result showed that OM concentration in WWTP effluent is 22% higher for TOC during dry days compared to rainy days. The BAC removal of OM was 17% higher for TOC, 21% COD, and 28% for UV254 absorbance compared to the intense rainiest days. The efficiency of the BAC for OM removal was increased over four months, the potential reason was the higher nutrient concentration in WWTP effluent for the first half period of the whole experiment. As for fluorescence measurement, precipitation showed no effect on OM composition of WWTP effluent, thus it is not related to the lower removal in BAC during rainy periods. Nevertheless, the higher formation of fulvic-like OM in the BAC was accompanied by the increase of the OM removal in BAC, it was likely due to microbial conversion. As for resin fractions, the HI fraction was 47% TOC removed, HOA fraction was 52% TOC removed which is advantageous to decrease the interference for the ozonation of MPs
 Additionally, MPs were detected at 35% higher concentrations during dry days in WWTP effluent compared to the intense rainiest days. MPs after BAC treatment was removed to a higher extent during dry days by an average of 12% compared to the intense rainiest days with an average precipitation of (6.5mm). Ozonation resulted in 17% higher MPs removed by 0.6 and 0.4 g O3/g TOC and 16% higher by 0.2 g O3/g TOC during dry days than the intense rainiest days. Potentially, it is caused by the higher reactivity of ozone with MPs during dry days due to the higher MPs concentration in WWTP effluent during dry days. Generally, MPs and OM both resulted in lower removal by BAC and ozone treatment during rainy days compared to dry days.
 
-  # ______________________________________________________________________________________________________________________________________________________________________
+ ______________________________________________________________________________________________________________________________________________________________________
 
 ## Global Sustainable Development Specialist at Heineken
 ### Net Zero Carbon Project
@@ -111,4 +111,4 @@ For visualization, I was consistently receiving feedback from my team on the bes
 * OpCos country details table
 
 
-# ______________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________

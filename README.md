@@ -21,12 +21,12 @@ Followed by the sub-questions that are intended to help answer the main research
 ![S](assets/img/Experiment.PNG)
 * Figure 2: The spiked WWTP was aerated in the aerator. BR1 is the BAC reactor. O3R is the ozone reactor. S1 is the feed sample, S2 is the sample after BAC treatment, S3 is the sample after BO3 treatment and S4 is the sample after O3 treatment only.
 
-### The followig figrue 3 represents the average removal of OMs for all dry days Vs rainy days, for different ozone dosages for BAC+O3 and only O3. Error bars represent standard deviation.
+# The followig figrue 3 represents the average removal of OMs for all dry days Vs rainy days, for different ozone dosages for BAC+O3 and only O3. Error bars represent standard deviation.
 
 ![S](assets/img/Average.PNG)
 
 
-### The following figure 4 represents MPs removal with BAC+O3 Vs precipitation.
+# The following figure 4 represents MPs removal with BAC+O3 Vs precipitation.
 
 ![S](assets/img/MPs-removal.PNG)
 
@@ -51,7 +51,7 @@ Furthermore, data was gathered from the CDP report and the annual report for the
 
 Moreover, qualitative data was also collected for the renewable energy technology types (e.g.: hydropower, renewable electricity, large hydropower (>25 MW), solar, wind, biogas, sustainable biomass and geothermal) for each company for the year of 2021. In addition, the data is collected for the tracking instrument used, such as International Renewable Energy Certificate [I-REC], Renewable Energy Guarantee of Origin [REGO], Guarantee of Origin [GO], and Green Electricity Certificate [GEC] for the same companies and the same year.
 
-** Creating matrices and analyzing the data:
+* Creating matrices and analyzing the data:
 1.	The annual necessary reduction percentage for scope 1 & 2 is calculated by dividing the target reduction of scope 1 & 2 for each company by the number
 2.	The percentage of scope 1 & 2 reduction for each year based on the baseline year. To calculate this, the emission for scope 1 & 2 for the baseline year is detected from the emission of scope 1 & 2 for the next year and divided by the baseline year emission until 2022.
 3.	The total necessary reduction since commitment (baseline year) for scope 1 & 2. To create this matrix, the number of years since the baseline year for each company multiplied by the annual necessary reduction percentage for scope 1 & 2.

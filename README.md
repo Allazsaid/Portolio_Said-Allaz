@@ -107,7 +107,7 @@ For visualization, I was consistently receiving feedback from my team on the bes
 * Overview Climate policy tracker map
 
 
-![jh](assets/img/Table.png)
+![jh](assets/img/111.png)
 * country details table
 
 

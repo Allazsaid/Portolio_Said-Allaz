@@ -21,12 +21,12 @@ Followed by the sub-questions that are intended to help answer the main research
 ![S](assets/img/Experiment.PNG)
 * Figure 2: The spiked WWTP was aerated in the aerator. BR1 is the BAC reactor. O3R is the ozone reactor. S1 is the feed sample, S2 is the sample after BAC treatment, S3 is the sample after BO3 treatment and S4 is the sample after O3 treatment only.
 
-# The followig figrue 3 represents the average removal of OMs for all dry days Vs rainy days, for different ozone dosages for BAC+O3 and only O3. Error bars represent standard deviation.
+- The followig figrue 3 represents the average removal of OMs for all dry days Vs rainy days, for different ozone dosages for BAC+O3 and only O3. Error bars represent standard deviation.
 
 ![S](assets/img/Average.PNG)
 
 
-# The following figure 4 represents MPs removal with BAC+O3 Vs precipitation.
+- The following figure 4 represents MPs removal with BAC+O3 Vs precipitation.
 
 ![S](assets/img/MPs-removal.PNG)
 

@@ -108,7 +108,9 @@ For visualization, I was consistently receiving feedback from my team on the bes
 
 
 ![jh](assets/img/Table.png)
-* OpCos country details table
+* country details table
 
 
 ______________________________________________________________________________________________________________________________________________________________________
+
+

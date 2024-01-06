@@ -106,7 +106,8 @@ For visualization, I was consistently receiving feedback from my team on the bes
 ![as](assets/img/Map1.png)
 * Overview Climate policy tracker map
 
-
+![jip](assets/img/Table.png)
+* Country Details Table
 ______________________________________________________________________________________________________________________________________________________________________
 
 # Project: Al-Kharj 128KV XLP Cable Laying

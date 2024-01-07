@@ -1,18 +1,9 @@
 <!-- Example: _layouts/default.html or similar -->
 <header>
   <h1>
-    <img src="/assets/me.jpg" alt="Said Allaz" class="profile-picture">
+    <img src="/assets/me.jpg" alt="Said Allaz" class="profile-picture" style="width: 100px; height: 100px;">
     Said Allaz
   </h1>
-  <!-- Other header content -->
-</header>
-
-/* Example: styles.css */
-.profile-picture {
-  width: 50px; /* Adjust the width as needed */
-  height: 50px; /* Adjust the height as needed */
-  border-radius: 50%; /* Optional: Apply a circular border */
-}
 
 
 ## Msc Biosystem Engineering thesis:

@@ -1,24 +1,21 @@
 
 ![ui](/assets/me1.jpg)
 
-## Msc Biosystem Engineering thesis:
+# Msc Biosystem Engineering thesis: The impact of precipitation on the performance of the BO3 reactor on removing micropollutants and organic matter from wastewater treatment plant effluent
 
-## The impact of precipitation on the performance of the BO3 reactor on removing micropollutants and organic matter from wastewater treatment plant effluent
-
-# Thesis summary
+## Thesis summary
 Micropollutants (MPs) such as pharmaceuticals and pesticides are given attention recently due to their impact on aquatic life. Wastewater treatment plants (WWTPs) are considered to be one of the main sources of MPs discharge to the environment. In order to test MPs removal during different weather conditions, a biological reactor (BAC) and an ozone reactor (O3) were combined in (BO3) reactor. Since 99% of ozone reacts with OM, not the targeted MPs, this research is focused on OM removal. A daily filled tank of 50L from Bennekom WWTP effluent was spiked with 24 MPs at a concentration of 1 μg/L and used as a feed for the BO3 reactor. The BO3 was fed with an average flowrate of 1 ± 0.04 and 1.01 ± 0.02 L/h for O3 reactor. Three ozone dosages are applied (0.2, 0.4, 0.6 g O3/g TOC), then the removal of OM and MPs were measured. To investigate the precipitation effect, different samples for dry periods and rainy periods were analyzed and OM characteristics were quantified. The result showed that OM concentration in WWTP effluent is 22% higher for TOC during dry days compared to rainy days. The BAC removal of OM for five chosen dry days is 28% higher for UV254 absorbance in comparison to the most intense five rainiest days. Nevertheless, precipitation showed no effect on OM composition of WWTP effluent, thus it is not related to the lower removal in BAC during rainy periods. Nonetheless, the higher formation of fulvic-like OM in the BAC was accompanied by the increase of the OM removal in BAC, it was likely due to microbial conversion. As for resin fractions, the HI fraction was 47% TOC removed, HOA fraction was 52% TOC removed which is advantageous to decrease the interference for the ozonation of MPs. Additionally, MPs were detected at 35% higher concentrations during dry days in WWTP effluent compared to the intense rainiest days. Moreover, precipitation lower the BAC removal for MPs with 12% higher removal during dry days compared to the intense rainiest days with an average precipitation of (6.5mm). Ozonation resulted in 17% higher MPs removed by 0.6 and 0.4 g O3/g TOC and 16% higher by 0.2 g O3/g TOC during dry days than the intense rainiest days. Potentially, it is caused by the higher reactivity of ozone with MPs during dry days due to the higher MPs concentration in WWTP effluent during dry days. Generally, MPs and OM both resulted in lower removal by BAC and ozone treatment during rainy days compared to dry days.
 
 ![Set-up for the BO3 reactor. BR1 is the BAC and O3R is the ozone reactor.](/assets/img/BO3-Reactor.png)
 * Figure 1: Set-up for the BO3 reactor. BR1 is the BAC and O3R is the ozone reactor.
 
-# Research questions and objectives:
+## Research questions and objectives:
 How does the removal of organic matter and micropollutants in BO3 is impacted by dry periods and rainy periods?
 
 Followed by the sub-questions that are intended to help answer the main research question:
 - What is the difference in WWTP effluent characteristics during dry and rainy periods?
 - What is the removal percentage of OM in the BAC and BO3 reactor for both dry and rainy periods?
 - What is the removal percentage of MPs in the BAC and BO3 reactor for dry and rainy periods?
-
 
 ## Experimental setup
 
@@ -35,15 +32,16 @@ Followed by the sub-questions that are intended to help answer the main research
 ![S](assets/img/MPs-removal.PNG)
 
 
-# Conclusion
+## Conclusion
 
 In this study, the impact of precipitation on the removal of OM and MPs in BO3 reactor was studied. The result showed that OM concentration in WWTP effluent is 22% higher for TOC during dry days compared to rainy days. The BAC removal of OM was 17% higher for TOC, 21% COD, and 28% for UV254 absorbance compared to the intense rainiest days. The efficiency of the BAC for OM removal was increased over four months, the potential reason was the higher nutrient concentration in WWTP effluent for the first half period of the whole experiment. As for fluorescence measurement, precipitation showed no effect on OM composition of WWTP effluent, thus it is not related to the lower removal in BAC during rainy periods. Nevertheless, the higher formation of fulvic-like OM in the BAC was accompanied by the increase of the OM removal in BAC, it was likely due to microbial conversion. As for resin fractions, the HI fraction was 47% TOC removed, HOA fraction was 52% TOC removed which is advantageous to decrease the interference for the ozonation of MPs
 Additionally, MPs were detected at 35% higher concentrations during dry days in WWTP effluent compared to the intense rainiest days. MPs after BAC treatment was removed to a higher extent during dry days by an average of 12% compared to the intense rainiest days with an average precipitation of (6.5mm). Ozonation resulted in 17% higher MPs removed by 0.6 and 0.4 g O3/g TOC and 16% higher by 0.2 g O3/g TOC during dry days than the intense rainiest days. Potentially, it is caused by the higher reactivity of ozone with MPs during dry days due to the higher MPs concentration in WWTP effluent during dry days. Generally, MPs and OM both resulted in lower removal by BAC and ozone treatment during rainy days compared to dry days.
 
  ______________________________________________________________________________________________________________________________________________________________________
 
-## Global Sustainable Development Specialist at Heineken
-### Net Zero Carbon Project
+# Global Sustainable Development Specialist at Heineken
+
+## Net Zero Carbon Project
 
 * Benchmark dashboard development
 * Data Mappig
@@ -92,7 +90,7 @@ In order to comprehensively build the main dashboard and make sure the data is d
 * Performance against targets Matrices
 
 
-# Climate Policy Tracker dashoard Development
+## Climate Policy Tracker dashoard Development
 
 The Climate Policy Tracker proved to be a valuable tool, as it provided up-to-date and comprehensive insights into climate policies throughout all geographic areas in which Heineken is active. This level of transparency is vital for the Operating Companies and Global teams, as it keeps them informed about the evolving climate policy landscape that significantly impacts their respective markets. Through this dashboard, they gain a deeper understanding of the prevailing challenges and opportunities that characterize each State's climate initiatives, serving as a critical early step in shaping Heineken's advocacy strategy.
 
@@ -114,12 +112,12 @@ For visualization, I was consistently receiving feedback from my team on the bes
 * Country Details Table
 ______________________________________________________________________________________________________________________________________________________________________
 
-# Project: Al-Kharj 128KV XLP Cable Laying
+# Electrical Engineer at Al-Kharj Project 128KV XLP Cable Laying
 
 Project Overview:
 As the Project Manager at Saudi Electricity Company, I spearheaded the successful execution of a significant infrastructure project involving the laying of 128KV XLP cables. This project aimed at enhancing the electrical grid infrastructure to ensure efficient electricity distribution across the region.
 
-* Responsibilities and Achievements:
+## Responsibilities and Achievements:
 
 1- Team Management:
 Led a dedicated team of 10+ engineer assistants and site workers throughout the project lifecycle.
@@ -141,7 +139,7 @@ Facilitated data-driven decision-making processes, enhancing the overall efficie
 Proactively identified areas for improvement and developed initiatives to address challenges and optimize project outcomes.
 Introduced innovative solutions to enhance project performance and efficiency.
 
-* Project Impact:
+## Project Impact:
 The successful completion of the 128KV XLP cable laying project had a significant impact on the electrical infrastructure, resulting in:
 
 * Improved Distribution: Enhanced the efficiency of electricity distribution across the region, contributing to a more reliable and stable power supply.

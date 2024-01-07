@@ -1,4 +1,6 @@
 
+<a href="#"><img src="/assets/me.jpg" width="100" height="100" /></a>
+
    <img src="/assets/me.jpg" style="width: 100px; height: 100px;">
 
 ![a3](/assets/me.jpg=100x100)

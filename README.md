@@ -1,7 +1,8 @@
 
    <img src="/assets/me.jpg" style="width: 100px; height: 100px;">
 
-![da](/assets/me.jpg)
+![a3](/assets/me.jpg=100x100)
+
 
 ## Msc Biosystem Engineering thesis:
 

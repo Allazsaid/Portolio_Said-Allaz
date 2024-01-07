@@ -112,8 +112,10 @@ For visualization, I was consistently receiving feedback from my team on the bes
 
 ![jip](assets/img/Table.png)
 * Country Details Table
-______________________________________________________________________________________________________________________________________________________________________
 
+ ______________________________________________________________________________________________________________________________________________________________________
+
+ 
 ## Electrical Engineer at Al-Kharj Project 128KV XLP Cable Laying
 
 Project Overview:

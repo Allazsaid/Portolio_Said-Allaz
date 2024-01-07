@@ -2,7 +2,6 @@
 <header>
   <h1>
     <img src="/assets/me.jpg" alt="Said Allaz" class="profile-picture" style="width: 100px; height: 100px;">
-    Said Allaz
   </h1>
 
 

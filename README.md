@@ -1,4 +1,4 @@
-![aaw](/assets/me.jpg)
+# ![aaw](/assets/me.jpg)
 ## Msc Biosystem Engineering thesis:
 ## The impact of precipitation on the performance of the BO3 reactor on removing micropollutants and organic matter from wastewater treatment plant effluent
 # Thesis summary

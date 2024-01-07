@@ -17,7 +17,7 @@ Followed by the sub-questions that are intended to help answer the main research
 - What is the removal percentage of OM in the BAC and BO3 reactor for both dry and rainy periods?
 - What is the removal percentage of MPs in the BAC and BO3 reactor for dry and rainy periods?
 
-## Experimental setup
+## Experimental setup & Results
 
 ![S](assets/img/Experiment.PNG)
 * Figure 2: The spiked WWTP was aerated in the aerator. BR1 is the BAC reactor. O3R is the ozone reactor. S1 is the feed sample, S2 is the sample after BAC treatment, S3 is the sample after BO3 treatment and S4 is the sample after O3 treatment only.

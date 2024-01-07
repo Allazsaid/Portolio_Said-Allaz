@@ -1,10 +1,6 @@
 
 <a href="#"><img src="/assets/me.jpg" width="100" height="100" /></a>
 
-   <img src="/assets/me.jpg" style="width: 100px; height: 100px;">
-
-
-
 ## Msc Biosystem Engineering thesis:
 
 ## The impact of precipitation on the performance of the BO3 reactor on removing micropollutants and organic matter from wastewater treatment plant effluent

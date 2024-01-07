@@ -116,7 +116,7 @@ For visualization, I was consistently receiving feedback from my team on the bes
  ______________________________________________________________________________________________________________________________________________________________________
 
  
-## Electrical Engineer at Al-Kharj Project 128KV XLP Cable Laying
+# Electrical Engineer at Al-Kharj Project 128KV XLP Cable Laying
 
 Project Overview:
 As the Project Manager at Saudi Electricity Company, I spearheaded the successful execution of a significant infrastructure project involving the laying of 128KV XLP cables. This project aimed at enhancing the electrical grid infrastructure to ensure efficient electricity distribution across the region.

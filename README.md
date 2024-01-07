@@ -1,10 +1,6 @@
-<!-- Example: _layouts/default.html or similar -->
-<header>
-  <h1>
-    <img src="/assets/me.jpg" alt="Said Allaz" class="profile-picture" style="width: 100px; height: 100px;">
-  </h1>
 
-
+   <img src="/assets/me.jpg" alt="Said Allaz" class="profile-picture" style="width: 100px; height: 100px;">
+ 
 ## Msc Biosystem Engineering thesis:
 ## The impact of precipitation on the performance of the BO3 reactor on removing micropollutants and organic matter from wastewater treatment plant effluent
 # Thesis summary

@@ -1,4 +1,20 @@
-### ![aaw](/assets/me.jpg)
+<!-- Example: _layouts/default.html or similar -->
+<header>
+  <h1>
+    <img src="/assets/me.jpg" alt="Said Allaz" class="profile-picture">
+    Said Allaz
+  </h1>
+  <!-- Other header content -->
+</header>
+
+/* Example: styles.css */
+.profile-picture {
+  width: 50px; /* Adjust the width as needed */
+  height: 50px; /* Adjust the height as needed */
+  border-radius: 50%; /* Optional: Apply a circular border */
+}
+
+
 ## Msc Biosystem Engineering thesis:
 ## The impact of precipitation on the performance of the BO3 reactor on removing micropollutants and organic matter from wastewater treatment plant effluent
 # Thesis summary
